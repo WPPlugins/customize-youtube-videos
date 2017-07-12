@@ -1,0 +1,24 @@
+p, textarea  {
+	font-family: verdana;
+}
+#wrapper-video-code {
+	background-color: #efefef;
+	border: 1px solid #4f4f4f;
+	width: 580px;
+	margin: 10px 0px;
+	padding: 10px;
+}
+
+textarea {
+	width: 400px;
+	height: 200px;
+}
+
+textarea.new-code {
+	width: 560px;
+	height: 60px;
+}
+
+p.example {
+	color: #b2b2b2;
+}
